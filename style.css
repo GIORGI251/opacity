@@ -1,0 +1,37 @@
+
+.container1 {
+    width:293px ;
+    height:513px ;
+    background-color:rgba(219, 197, 0, 0.5) ;
+    opacity: 80%;
+    margin-left: 14px;
+}
+.container2 {
+    width:293px ;
+    height:513px ;
+    background-color:rgba(219, 197, 0, 0.4);
+    opacity: 80%;
+    margin-left: 14px;
+}
+.container3 {
+    width:293px ;
+    height:513px ;
+    background-color:rgba(219, 197, 0, 0.7);
+    opacity: 80%;
+    margin-left: 14px;
+}
+.container4 {
+    width:293px ;
+    height:513px ;
+    background-color:rgba(219, 197, 0, 0.35);
+    opacity: 80%;
+    margin-left: 14px;
+}
+.d-flex{
+    display: flex;
+}
+body {
+    background-image: url(photo.jpg);
+    background-size:cover;
+ 
+}
